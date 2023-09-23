@@ -27,4 +27,11 @@
 
 🗂 Скриншоты:
 
+
+![image_2023-09-23_09-25-58](https://github.com/CJmean4ik/Weather-App/assets/107434248/97c0f31e-8a36-40bf-bee0-f1d647bcb6a2)
+
+![image_2023-09-23_09-25-47](https://github.com/CJmean4ik/Weather-App/assets/107434248/ef2ecdd8-ac89-4a2e-aa10-809a264e7c82)
+
+![image_2023-09-23_09-26-09](https://github.com/CJmean4ik/Weather-App/assets/107434248/c50d6559-1240-4578-9145-2a2e259de286)
+
 P.S: Фон рабочей области приложения намного лучше размыт, чем на скриншотах 
